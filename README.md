@@ -1,2 +1,2 @@
 # Machine-Learning-Projects
-All king of ML algorithms and related projects
+All kind of ML algorithms and related projects
